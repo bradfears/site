@@ -1,1 +1,1 @@
-Hello my name is Brad Fears and this is my GitHub Pages site.
+<meta http-equiv="Refresh" content="0; url='https://github.com/bradfears/'" />
